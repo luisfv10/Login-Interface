@@ -1,5 +1,5 @@
 body {
-  background: url(./assets/bg.png);
+  background: url(./assets/bg-dark-red.png);
 }
 
 .background {
@@ -76,7 +76,7 @@ button {
   margin-top: 50px;
   width: 100%;
   background-color: #ffffff;
-  color: #080710;
+  color: black;
   padding: 15px 0;
   font-size: 18px;
   font-weight: 600;
